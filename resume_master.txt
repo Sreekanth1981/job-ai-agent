@@ -1,0 +1,101 @@
+Sreekanth Goud Ulli
+Salesforce Program Manager | SAP Delivery Manager | Enterprise Transformation Leader
+India | Open to Travel (50%) | US B1 Visa (Valid till 2027)
+📧 sreekanth.goud@gmail.com | 📞 +91 98859 21987
+
+PROFESSIONAL SUMMARY
+
+Enterprise Program & Delivery Leader with 20+ years of experience driving large-scale Salesforce CRM and SAP S/4HANA transformation programs across BFSI, Healthcare, Real Estate, and Technology domains.
+
+Expert in managing multi-stream, integration-heavy programs ($1M–$20M) with global teams (30–100+ members), delivering end-to-end governance, stakeholder alignment, and successful go-lives.
+
+Strong background in Salesforce multi-cloud environments, SAP integrations, data migration governance, DevOps/CI-CD oversight, and Agile program execution.
+
+Known for leading enterprise transformation initiatives with predictable delivery, risk control, and executive stakeholder engagement.
+
+CORE COMPETENCIES
+Salesforce Program & Multi-Cloud Delivery (Sales, Service, CPQ, Health Cloud)
+SAP S/4HANA Transformation & ECC Modernization
+SAP–Salesforce Enterprise Integrations
+Program Governance, RAID Management & Executive Reporting
+Agile Delivery (Sprint Planning, Release Mgmt, Backlog Prioritization)
+DevOps & CI/CD Oversight (Release Governance, Deployment Lifecycle)
+Data Migration Strategy (Mock Loads, Reconciliation, Cutover Planning)
+Stakeholder Management (CIO/VP/Business Leadership)
+Global Team Leadership (30–100+ members)
+Budget, P&L & Delivery Ownership
+PROFESSIONAL EXPERIENCE
+Senior Program Manager – Salesforce Enterprise Delivery
+
+Wilco Source | 2024 – Present
+
+Lead end-to-end Salesforce program delivery for enterprise engagements ($500K–$2M)
+Manage 4–6 parallel workstreams including CRM, SAP integrations, data migration, and DevOps
+Drive Agile delivery execution, sprint planning, backlog prioritization, and release governance
+Oversee Salesforce release lifecycle, deployment coordination, and environment strategy
+Maintain RAID logs and provide executive-level reporting to CIO/VP stakeholders
+Ensure production readiness, go-live validation, and post-deployment stabilization
+Director – IT Applications (SAP & Salesforce Delivery)
+
+RealPage | 2023 – 2024
+
+Led SAP and Salesforce delivery portfolios during enterprise M&A integration
+Managed cross-system dependencies across CRM and ERP platforms
+Governed data migration, reconciliation, and cutover strategy
+Acted as primary escalation point for delivery risks and stakeholder alignment
+Delivered executive-level governance reporting and transformation oversight
+Senior ERP Principal Consultant – Salesforce/SAP Delivery
+
+Mphasis | 2022 – 2023
+
+Led enterprise CRM and ERP delivery programs with deep integration requirements
+Supported pre-sales, solutioning, and executive presentations for multi-million-dollar deals
+Defined delivery models, architecture strategy, and integration frameworks
+Collaborated across sales, engineering, and delivery for successful program execution
+Vice President – Program Execution (SAP & Salesforce)
+
+Rialtes Technologies | 2021 – 2022
+
+Owned delivery of multi-stream Salesforce & SAP transformation programs
+Led global teams (40+ members) across CRM and ERP implementations
+Managed program governance, delivery frameworks, and executive reporting
+Supported strategic growth, client engagement, and delivery scaling initiatives
+Senior Manager – Enterprise Platform Operations (DevOps & Salesforce)
+
+AutoRabit | 2018 – 2021
+
+Led Salesforce platform operations, DevOps governance, and CI/CD adoption
+Oversaw release management lifecycle, deployment governance, and automation
+Partnered with enterprise clients to align delivery with business priorities
+Strengthened architectural discipline and delivery reliability
+Project Manager – Business Transformation (Salesforce CRM)
+
+Cyient Ltd | 2015 – 2018
+
+Delivered Salesforce CRM transformation initiatives across global business units
+Led SAP–Salesforce integrations supporting finance and operations
+Managed budgets, delivery governance, and cross-functional coordination
+Worked closely with executive leadership on digital transformation programs
+Earlier Experience
+IBM – Operations & Delivery (2010–2015)
+Microsoft – Business Operations Lead (2007–2010)
+Monster.com – Sales Operations Lead (2005–2007)
+ICICI Bank – Operations Analyst (2002–2005)
+KEY ACHIEVEMENTS
+Delivered multiple enterprise CRM and ERP transformation programs ($1M–$20M)
+Led global delivery teams of 30–100+ members across multi-region programs
+Successfully executed SAP S/4HANA migrations and Salesforce multi-cloud deployments
+Improved delivery timelines by up to 30–40% through governance and Agile execution
+Established DevOps and CI/CD frameworks improving release reliability
+CERTIFICATIONS
+Salesforce Certified Administrator
+Salesforce Sales Cloud Consultant
+Salesforce Service Cloud Consultant
+EDUCATION
+Executive Program in Data Analytics – Indian School of Business (ISB), 2020
+MBA – Business Operations Management, 2016
+Bachelor of Commerce, 2002
+ADDITIONAL INFORMATION
+Immediate Availability
+Open to Travel (50%)
+US B1 Visa Active (Valid till 2027)
